@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Calibri;
+}
+
+.main-header {
+    height: 70px;
+    background-color: #4CAF50;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#nav-bar {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#nav-bar li {
+    display: inline-block;
+    color: white;
+    margin: 8px;
+    font-size: 17px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    /*padding: 14px 16px;*/
+}
+
+.account {
+    padding:14px 14px;
+}
+
+.account:hover {
+    display: inline;
+    background-color: #333;
+}
+
+.login {
+    float: right;
+}

@@ -1,0 +1,90 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 16-Sep-5017, 23:11:49
+    Author     : Akshat Chhabra
+*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#4CAF50;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: right;
+}
+
+a.navbar:hover:not(.active) {
+    background-color: #333;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+a.logo:hover:not(.active) {
+    background-color: #333;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.floatright{
+    float: right;
+}
+
+.floatleft{
+    float: left;
+}
+
+.active {
+background-color:#333;
+}
+
+body{
+    font-family: calibri;
+    margin: 0;
+    padding: 0;
+}
+
+.userdetail{
+    margin: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #ffffcc;
+    /*color: #ffffff;*/
+    box-shadow: 0 4px 6px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    text-align: center;
+}
+.posted{
+    margin: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #ffffcc;
+    /*color: #ffffff;*/
+    box-shadow: 0 4px 6px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    text-align: center;
+}
+.bought{
+    margin: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color:#ffffcc;
+    /*color: #ffffff;*/
+    box-shadow: 0 4px 6px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    text-align: center;
+}
+
