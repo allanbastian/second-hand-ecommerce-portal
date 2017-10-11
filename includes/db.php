@@ -1,6 +1,6 @@
 <?php
 
-$con=mysqli_connect("localhost","root","","ecommerce");
+$con=mysqli_connect("localhost","root","","the_store");
 
 
 ?>

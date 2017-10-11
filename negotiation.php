@@ -7,7 +7,7 @@
     </head>
     <body>
         <?php
-        $con = mysqli_connect("localhost", "root", "", "OSP");
+        $con = mysqli_connect("localhost", "root", "", "the_store");
         if (!$con) {
             die(mysqli_error());
         }
