@@ -5,7 +5,7 @@
   <body>
       <h1 align="center"> Please wait while we redirect you to a payment portal... </h1>
       <?php
-        $con = mysqli_connect("localhost", "root", "", "OSP")
+        $con = mysqli_connect("localhost", "root", "", "the_store")
         or dies(mysqli_error(), " occurs");
         $que = mysqli_query($con, "select price from negotiation");
         $fin = mysqli_fetch_assoc($que);
