@@ -3,13 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/wamp64/www/PhpProject1/loginpg.php</file>
-            <file>file:/C:/wamp64/www/PhpProject1/signup.php</file>
-            <file>file:/C:/wamp64/www/PhpProject1/index.php</file>
-            <file>file:/C:/wamp64/www/PhpProject1/Profilepage.php</file>
-            <file>file:/C:/wamp64/www/PhpProject1/category.php</file>
-            <file>file:/C:/wamp64/www/PhpProject1/css/style.css</file>
-            <file>file:/C:/wamp64/www/PhpProject1/css/style2.css</file>
+            <file>file:/C:/wamp/www/Store/signup.php</file>
+            <file>file:/C:/wamp/www/Store/index.php</file>
+            <file>file:/C:/wamp/www/Store/Profilepage.php</file>
+            <file>file:/C:/wamp/www/Store/loginpg.php</file>
+            <file>file:/C:/wamp/www/Store/negotiation.php</file>
+            <file>file:/C:/wamp/www/Store/insert_product.php</file>
+            <file>file:/C:/wamp/www/Store/js/home-page.js</file>
+            <file>file:/C:/wamp/www/Store/js/scrpt.js</file>
+            <file>file:/C:/wamp/www/Store/payment.php</file>
         </group>
     </open-files>
 </project-private>

@@ -38,7 +38,7 @@
     </head>
     <body>
         <ul>
-            <li><a class= "logo" href="home.php"><b>The Store</b></a></li>
+            <li><a class= "logo" href="index.php"><b>The Store</b></a></li>
             <div class = "floatright">
             <li><a class="active" href="loginpg.php">Login</a></li>
             <li><a class= "navbar" href="signup.php">Signup</a></li>
